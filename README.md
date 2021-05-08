@@ -4,8 +4,7 @@
 
 The following repository contains the analysis notebooks for [QEdark](https://github.com/adrian-soto/QEdark_repo), which are needed for calculating dark matter-electron scattering in semiconductor targets. We provide both Mathematica and Jupyter notebooks, which utilize the tabulated form-factors calculated using [QEdark](https://github.com/adrian-soto/QEdark_repo). 
 
-### Datasets:
-There are three types of datasets:
-- integrated form-factors (silicon, germanium): these form factors are integrated over a Maxwell-Boltzmann velocity distribution with $v_0=230$ km/s, $v_{\rm esc}=600$ km/s, $v_E=240$ km/s, and $\Delta v_E=15$ km/s. The appropriate analysis notebook is called `QEdark.nb`.
-- un-integrated form-form factors (silicon, germanium): to use these form factors, the user will need to specify a specific dark matter velocity profile to calculated the expected rates. The appropriate analysis notebook is called `QEdark-f2.nb`. 
-- xenon form factors: these are required to calculated the dark matter-electron scattering rate in xenon. The appropriate analysis notebook is `LDM_Xenon.nb` and it requires the use of `myUnits.m`. 
+## Repository content
+The folders of this repository are:
+- *QEdark-python/*: contains an example notebook (QEdark_f2.ipynb) to calculate the rate and cross-section for silicon using the imported crystal form-factor Si_f2.txt. 
+- *Mathematica*: contains notebooks to calculate the rate and cross-section for crystal targets (QEdark.nb, QEdark-f2.nb) and for liquid xenon (LDM_Xenon.nb)
