@@ -6,5 +6,7 @@ The following repository contains the analysis notebooks for [QEdark](https://gi
 
 ## Repository content
 The folders of this repository are:
-- *QEdark-python/*: contains an example notebook (QEdark_f2.ipynb) to calculate the rate and cross-section for silicon using the imported crystal form-factor Si_f2.txt. 
-- *Mathematica*: contains notebooks to calculate the rate and cross-section for crystal targets (QEdark.nb, QEdark-f2.nb) and for liquid xenon (LDM_Xenon.nb)
+- *QEdark-python/*: contains an example notebook (`QEdark_f2.ipynb`) to calculate the rate and cross-section for silicon using the imported crystal form-factor Si_f2.txt. 
+- *Mathematica*: contains notebooks to calculate the rate and cross-section for crystal targets (`QEdark.nb`, `QEdark-f2.nb`) and for liquid xenon (`LDM_Xenon.nb`)
+
+More detailed descriptions are given within the folders.
