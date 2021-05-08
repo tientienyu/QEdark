@@ -1,4 +1,4 @@
-# Mathematica analysis of QEdark crystal-form factors and Liquid Xenon form factors
+# Mathematica analysis of QEdark crystal form-factors and Liquid Xenon form-factors
 
 ### Datasets:
 The crystal form-factors are produced by `QEdark` while the code to produce the liquid xenon form-factors is not yet public. However, a description for how to calculate the liquid xenon form-factors can be found at (https://arxiv.org/abs/1703.00910).
