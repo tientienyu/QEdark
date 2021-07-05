@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tientienyu/QEdark/HEAD) Launch Binder to use with .ipynb in QEdark-python.
 # QEdark
 
 ## The `QEdark` code is based on work as published in [arXiv:1509.01598](https://arxiv.org/abs/1509.01598) by Rouven Essig, Marivi Fernandez-Serra, Jeremy Mardon, Adrian Soto, Tomer Volansky, and Tien-Tien Yu
@@ -11,4 +12,3 @@ The folders of this repository are:
 
 More detailed descriptions are given within the folders.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tientienyu/QEdark/HEAD)
