@@ -25,7 +25,7 @@ numpy==1.21.0
     #   -r requirements.in
     #   matplotlib
     #   scipy
-pillow==8.3.0
+#pillow==8.3.0
     # via matplotlib
 pyparsing==2.4.7
     # via matplotlib
